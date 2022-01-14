@@ -10,7 +10,7 @@ function Navbar() {
         <header>
             <nav className='container'>
                 <div className='dsmovie-nav-content'>
-                    <h1>DSMovie</h1>
+                    <h1>DSMovie-Wtiinfo</h1>
                     <a {...meus_links}>
                         <div className='dsmovie-contact-container'>
                             <GithubIcon />
