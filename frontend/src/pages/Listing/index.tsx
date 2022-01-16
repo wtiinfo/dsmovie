@@ -38,9 +38,13 @@ function Listing() {
         score: 4.8
     };
 
+    const handlePageChange = (newPageNumber : number) => {
+        setPageNumber(newPageNumber);
+    }
+
     return (
         <>
-            <Pagination />
+            <Pagination onChange={handlePageChange} page = {page}/>
             <div className="container">
                 <div className="row">
                     {
