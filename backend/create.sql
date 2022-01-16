@@ -101,3 +101,12 @@ Deploy básico
 Base directory: frontend
 Build command: yarn build
 Publish directory: frontend/build
+
+
+
+programacao moderna em c
+https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE
+engenharia reversa cero
+https://www.youtube.com/playlist?list=PLIfZMtpPYFP6zLKlnyAeWY1I85VpyshAA
+gHidra
+https://www.youtube.com/playlist?list=PLIfZMtpPYFP5orPxcOZBn5cLOu7WG8xuF
